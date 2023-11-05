@@ -1,4 +1,4 @@
-package org.backzoon;
+package org.backzoon.greedy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
